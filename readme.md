@@ -30,10 +30,6 @@ APIs: Spotify API, JioSaavn API (Unofficial)
 
 Other: Async Storage, Custom Audio Player
 
-📸 Screenshots
-
-(Add app screenshots here)
-
 ⚠ Disclaimer
 
 This project is created for educational purposes only.
